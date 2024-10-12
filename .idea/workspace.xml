@@ -5,16 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff3d784d-0cb9-4e68-9163-2618b6402f09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umg/lab/areabajolacuerva/interfazbajolacuerva.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umg/lab/areabajolacuerva/interfazbajolacuerva.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umg/lab/areabajolacuerva/logicabajolacuerva.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umg/lab/areabajolacuerva/logicabajolacuerva.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umg/lab/integralesimpropias/integralesimpropias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umg/lab/integralesimpropias/integralesimpropias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umg/lab/integralesimpropias/interfazimpropia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umg/lab/integralesimpropias/interfazimpropia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umg/lab/sustitución/interfazsustitucion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umg/lab/sustitución/interfazsustitucion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umg/lab/sustitución/logicasustitucion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umg/lab/sustitución/logicasustitucion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MrNaserMartinez/unionchida.git",
+    "accountId": "c4f3f322-a2f3-4cd5-9080-10c3becda0bf"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -26,9 +46,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.integralesimpropias.executor": "Run",
+    "Application.interfazbajolacuerva.executor": "Run",
+    "Application.interfazimpropia.executor": "Run",
+    "Application.interfazsustitucion.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Naser Martinez/IdeaProjects/union/src/main/java/umg/lab/Main.java",
     "vue.rearranger.settings.migration": "true"
@@ -50,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728695243796</updated>
-      <workItem from="1728695244886" duration="6000" />
+      <workItem from="1728695244886" duration="3614000" />
     </task>
     <servers />
   </component>
